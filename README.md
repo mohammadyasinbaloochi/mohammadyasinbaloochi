@@ -60,7 +60,7 @@ Frameworks & Libraries & server:
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"> 
   </div>
   <h2 align="left">
- Design Tools:
+ Database:
  </h2>
    <div style="display: inline_block"><br>
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
