@@ -3,7 +3,7 @@
 <p align="left"> 
   
 🔭 I Have 5 years of programming experience under my belt.<br>
-🌱 I juggle languages like C#, Python, Verilog, css ,html , javascript , react , php and laravel  ease.<br>
+🌱 I juggle languages like C#, Python, Verilog, css ,html , javascript , php   ease.<br>
 🚀 My adventures in tech span from AI and machine learning to Verilog and SPICE codes in hardware.<br>
 📫 plus Full-Stack Development for Web  Applications.<br>
 🤔 I'm particularly fascinated by AI and image processing.<br>
