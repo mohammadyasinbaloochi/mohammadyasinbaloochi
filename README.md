@@ -18,14 +18,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=GitKezia&show_icons=true&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api?username=yasin6452&show_icons=true&theme=dracula"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldribeiro&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin6452&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -33,7 +33,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GitKezia&theme=dracula&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=yasin6452&theme=dracula&hide_border=false"
         alt="Github stats"
       />
     </td>
@@ -64,6 +64,8 @@ Frameworks & Libraries & server:
  </h2>
    <div style="display: inline_block"><br>
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+     <img align="center" alt="Kezia-Blender"  src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+
   </div>
   <br>
  <h2 align="left">
