@@ -50,21 +50,37 @@
   <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
 <h2 align="left">
-   Design Tools:
+Frameworks & Libraries & server: 
 </h2>
    <div style="display: inline_block"><br>
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
+     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
+     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"> 
   </div>
-  
-<h2 align="left">
+  <h2 align="left">
+ Design Tools:
+ </h2>
+   <div style="display: inline_block"><br>
+     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  </div>
+  <br>
+ <h2 align="left">
  Design Tools:
  </h2>
    <div style="display: inline_block"><br>
      <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   </div>
+  <br>
+ <h2 align="left">
+  General:
+ </h2>
+   <div style="display: inline_block"><br>
+     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  </div>
+  <br>
   
-  ##
  <p align="left">
   💌📬 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
